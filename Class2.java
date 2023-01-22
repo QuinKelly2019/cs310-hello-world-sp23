@@ -15,7 +15,7 @@ public class Class2 {
          // v3.0
     }
     private void f4 () {
-        // new feature
+        // v4.0
     }
 
 }
